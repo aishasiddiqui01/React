@@ -1,0 +1,28 @@
+{
+  "name": "food_delivery_app",
+  "version": "1.0.0",
+  "description": "Its a food delvery app built in react",
+
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishasiddiqui01/React.git"
+  },
+  "author": "Aisha Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishasiddiqui01/React/issues"
+  },
+  "homepage": "https://github.com/aishasiddiqui01/React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

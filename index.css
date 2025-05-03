@@ -22,9 +22,10 @@
 
 .restraunt-card {
     box-sizing: border-box;
-    width: 200px;
-    height: 350px;
-    margin: 0 5px ;
+    width: 220px;
+    height: 360px;
+    margin: 10px 10px ;
+    padding: 5px;
     background-color: lightgray;
 
     &:hover {
@@ -43,7 +44,7 @@
 
 .restraunt-container {
     display: flex;
-    flex-flow: row ;
+    flex-wrap: wrap ;
 }
 
 .filter-res-btn {
